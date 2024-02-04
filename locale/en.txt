@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 16
+
+## Media
+
+### Title
+panorama_78BADD47_7377_3DC6_41D4_301C64E70768.label = TDT_ffbedrm
